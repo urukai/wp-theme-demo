@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ce95bcfa-7271-49f8-a102-3ff5da9d471b" name="provisoris.ch (WMP27 / WP)" url="http://provisoris.ch">
+        <fileTransfer rootFolder="/httpdocs/wp" accessType="FTPS" host="provisoris.ch" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

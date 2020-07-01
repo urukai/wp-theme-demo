@@ -1,0 +1,24 @@
+/*
+Theme Name: Webedu WP Demo Theme
+Theme URI: https://webedu.ch
+Description: Demo-Theme für WMP27
+Author: Simon
+Author URI: https://webedu.ch
+Version: 1.0
+Text Domain: webedu
+*/
+
+body {
+	background-color: crimson;
+}
+body.startseite {
+	background-color: cornflowerblue;
+}
+
+
+
+
+
+
+
+
